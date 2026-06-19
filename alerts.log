@@ -1,0 +1,61 @@
+2025-12-14 23:37:27,351 - WARNING - ALERT [HIGH_CRITICAL]: gun detected with 83.92% confidence
+2025-12-14 23:37:27,353 - INFO - Alert saved to database: gun
+2025-12-14 23:37:33,953 - INFO - Email alert sent for gun detection (attempt 1)
+2025-12-14 23:37:34,482 - INFO - Sound alert played for gun detection
+2025-12-14 23:37:52,428 - WARNING - ALERT [HIGH_CRITICAL]: gun detected with 81.62% confidence
+2025-12-14 23:37:52,452 - INFO - Alert saved to database: gun
+2025-12-14 23:37:57,340 - INFO - Email alert sent for gun detection (attempt 1)
+2025-12-14 23:37:57,846 - INFO - Sound alert played for gun detection
+2025-12-14 23:38:17,415 - WARNING - ALERT [SUSPECIOUS]: blunt_object detected with 81.95% confidence
+2025-12-14 23:38:17,452 - INFO - Alert saved to database: blunt_object
+2025-12-14 23:38:22,441 - INFO - Email alert sent for blunt_object detection (attempt 1)
+2025-12-14 23:38:22,957 - INFO - Sound alert played for blunt_object detection
+2025-12-15 01:05:43,944 - WARNING - ALERT [HIGH_CRITICAL]: gun_VLM_ANALYZED detected with 82.86% confidence
+2025-12-15 01:05:43,985 - INFO - Alert saved to database: gun_VLM_ANALYZED
+2025-12-15 01:05:43,999 - WARNING - Email attempt 1 failed, retrying in 1s: Could not guess image MIME subtype
+2025-12-15 01:05:45,001 - WARNING - Email attempt 2 failed, retrying in 2s: Could not guess image MIME subtype
+2025-12-15 01:05:47,002 - ERROR - Failed to send email alert after 3 attempts: Could not guess image MIME subtype
+2025-12-15 01:05:47,086 - INFO - Desktop notification sent for gun_VLM_ANALYZED detection
+2025-12-15 01:05:47,599 - INFO - Sound alert played for gun_VLM_ANALYZED detection
+2025-12-15 01:06:16,044 - WARNING - ALERT [HIGH_CRITICAL]: gun_VLM_ANALYZED detected with 91.05% confidence
+2025-12-15 01:06:16,060 - INFO - Alert saved to database: gun_VLM_ANALYZED
+2025-12-15 01:06:16,073 - WARNING - Email attempt 1 failed, retrying in 1s: Could not guess image MIME subtype
+2025-12-15 01:06:17,097 - WARNING - Email attempt 2 failed, retrying in 2s: Could not guess image MIME subtype
+2025-12-15 01:06:19,098 - ERROR - Failed to send email alert after 3 attempts: Could not guess image MIME subtype
+2025-12-15 01:06:19,099 - INFO - Desktop notification sent for gun_VLM_ANALYZED detection
+2025-12-15 01:06:19,609 - INFO - Sound alert played for gun_VLM_ANALYZED detection
+2025-12-15 01:06:55,764 - WARNING - ALERT [HIGH_CRITICAL]: gun_VLM_ANALYZED detected with 86.90% confidence
+2025-12-15 01:06:55,786 - INFO - Alert saved to database: gun_VLM_ANALYZED
+2025-12-15 01:06:55,806 - WARNING - Email attempt 1 failed, retrying in 1s: Could not guess image MIME subtype
+2025-12-15 01:06:56,808 - WARNING - Email attempt 2 failed, retrying in 2s: Could not guess image MIME subtype
+2025-12-15 01:06:58,809 - ERROR - Failed to send email alert after 3 attempts: Could not guess image MIME subtype
+2025-12-15 01:06:58,810 - INFO - Desktop notification sent for gun_VLM_ANALYZED detection
+2025-12-15 01:06:59,322 - INFO - Sound alert played for gun_VLM_ANALYZED detection
+2025-12-15 01:37:33,375 - WARNING - ALERT [HIGH_CRITICAL]: gun_VLM_ANALYZED detected with 85.17% confidence
+2025-12-15 01:37:33,379 - INFO - Alert saved to database: gun_VLM_ANALYZED
+2025-12-15 01:37:33,403 - WARNING - Email attempt 1 failed, retrying in 1s: Could not guess image MIME subtype
+2025-12-15 01:37:34,404 - WARNING - Email attempt 2 failed, retrying in 2s: Could not guess image MIME subtype
+2025-12-15 01:37:36,406 - ERROR - Failed to send email alert after 3 attempts: Could not guess image MIME subtype
+2025-12-15 01:37:36,415 - INFO - Desktop notification sent for gun_VLM_ANALYZED detection
+2025-12-15 01:37:36,929 - INFO - Sound alert played for gun_VLM_ANALYZED detection
+2025-12-15 01:39:23,071 - WARNING - ALERT [SUSPECIOUS]: blunt_object_VLM_ANALYZED detected with 82.88% confidence
+2025-12-15 01:39:23,117 - INFO - Alert saved to database: blunt_object_VLM_ANALYZED
+2025-12-15 01:39:23,134 - WARNING - Email attempt 1 failed, retrying in 1s: Could not guess image MIME subtype
+2025-12-15 01:39:24,136 - WARNING - Email attempt 2 failed, retrying in 2s: Could not guess image MIME subtype
+2025-12-15 01:39:26,137 - ERROR - Failed to send email alert after 3 attempts: Could not guess image MIME subtype
+2025-12-15 01:39:26,138 - INFO - Desktop notification sent for blunt_object_VLM_ANALYZED detection
+2025-12-15 01:39:26,643 - INFO - Sound alert played for blunt_object_VLM_ANALYZED detection
+2025-12-15 01:51:34,957 - WARNING - ALERT [HIGH_CRITICAL]: gun_VLM_ANALYZED detected with 82.72% confidence
+2025-12-15 01:51:34,978 - INFO - Alert saved to database: gun_VLM_ANALYZED
+2025-12-15 01:51:34,992 - WARNING - Email attempt 1 failed, retrying in 1s: Could not guess image MIME subtype
+2025-12-15 01:51:35,994 - WARNING - Email attempt 2 failed, retrying in 2s: Could not guess image MIME subtype
+2025-12-15 01:51:37,995 - ERROR - Failed to send email alert after 3 attempts: Could not guess image MIME subtype
+2025-12-15 01:51:38,016 - INFO - Desktop notification sent for gun_VLM_ANALYZED detection
+2025-12-15 01:51:38,520 - INFO - Sound alert played for gun_VLM_ANALYZED detection
+2025-12-15 01:52:29,629 - WARNING - ALERT [SUSPECIOUS]: blunt_object_VLM_ANALYZED detected with 80.71% confidence
+2025-12-15 01:52:29,660 - INFO - Alert saved to database: blunt_object_VLM_ANALYZED
+2025-12-15 01:52:29,672 - WARNING - Email attempt 1 failed, retrying in 1s: Could not guess image MIME subtype
+2025-12-15 01:52:30,674 - WARNING - Email attempt 2 failed, retrying in 2s: Could not guess image MIME subtype
+2025-12-15 01:52:32,675 - ERROR - Failed to send email alert after 3 attempts: Could not guess image MIME subtype
+2025-12-15 01:52:32,681 - INFO - Desktop notification sent for blunt_object_VLM_ANALYZED detection
+2025-12-15 01:52:33,190 - INFO - Sound alert played for blunt_object_VLM_ANALYZED detection

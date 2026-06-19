@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2025-12-14 23:37:27",
+    "object_type": "gun",
+    "confidence": 0.8391815423965454,
+    "priority": "high_critical",
+    "image_path": "alerts\\alert_20251214_233727.jpg",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-12-14 23:37:52",
+    "object_type": "gun",
+    "confidence": 0.8161656260490417,
+    "priority": "high_critical",
+    "image_path": "alerts\\alert_20251214_233752.jpg",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "timestamp": "2025-12-14 23:38:17",
+    "object_type": "blunt_object",
+    "confidence": 0.8195446133613586,
+    "priority": "suspecious",
+    "image_path": "alerts\\alert_20251214_233817.jpg",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "timestamp": "2025-12-15 01:05:43",
+    "object_type": "gun_VLM_ANALYZED",
+    "confidence": 0.8286310434341431,
+    "priority": "high_critical",
+    "image_path": "vlm_analysis_clips\\clip_gun_20251215_010534.mp4",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "timestamp": "2025-12-15 01:06:16",
+    "object_type": "gun_VLM_ANALYZED",
+    "confidence": 0.9104991555213928,
+    "priority": "high_critical",
+    "image_path": "vlm_analysis_clips\\clip_gun_20251215_010609.mp4",
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "timestamp": "2025-12-15 01:06:55",
+    "object_type": "gun_VLM_ANALYZED",
+    "confidence": 0.869015634059906,
+    "priority": "high_critical",
+    "image_path": "vlm_analysis_clips\\clip_gun_20251215_010648.mp4",
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "timestamp": "2025-12-15 01:37:33",
+    "object_type": "gun_VLM_ANALYZED",
+    "confidence": 0.8517166376113892,
+    "priority": "high_critical",
+    "image_path": "vlm_analysis_clips\\clip_gun_20251215_013724.mp4",
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "timestamp": "2025-12-15 01:39:23",
+    "object_type": "blunt_object_VLM_ANALYZED",
+    "confidence": 0.8288491368293762,
+    "priority": "suspecious",
+    "image_path": "vlm_analysis_clips\\clip_blunt_object_20251215_013916.mp4",
+    "status": "active"
+  },
+  {
+    "id": 9,
+    "timestamp": "2025-12-15 01:51:34",
+    "object_type": "gun_VLM_ANALYZED",
+    "confidence": 0.8271913528442383,
+    "priority": "high_critical",
+    "image_path": "vlm_analysis_clips\\clip_gun_20251215_015128.mp4",
+    "status": "active"
+  },
+  {
+    "id": 10,
+    "timestamp": "2025-12-15 01:52:29",
+    "object_type": "blunt_object_VLM_ANALYZED",
+    "confidence": 0.807093620300293,
+    "priority": "suspecious",
+    "image_path": "vlm_analysis_clips\\clip_blunt_object_20251215_015221.mp4",
+    "status": "active"
+  }
+]

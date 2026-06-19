@@ -1,0 +1,62 @@
+{
+  "confidence_threshold": 0.8,
+  "alert_cooldown": 10,
+  "frame_skip": 1,
+  "suspicious_classes": [
+    "blunt_object",
+    "gun",
+    "knife"
+  ],
+  "priority_levels": {
+    "blunt_object": "suspecious",
+    "gun": "high_critical",
+    "knife": "critical"
+  },
+  "vlm": {
+    "enabled": true,
+    "api_url": "http://localhost:8000/analyze",
+    "model": "claude-sonnet-4-20250514",
+    "timeout": 30,
+    "capture_duration": 5,
+    "capture_fps": 3,
+    "capture_cooldown": 30,
+    "analysis_prompt": "You are a security analyst reviewing surveillance footage. Analyze this sequence of frames and describe: 1) What suspicious activity or behavior is occurring? 2) What weapon or object is visible and how is it being used? 3) Is there an immediate threat or concerning behavior? 4) What action should security personnel take? Provide a concise but detailed analysis."
+  },
+  "email": {
+    "enabled": true,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "gajendradj123@gmail.com",
+    "password": "qodw zjwc vuta wmqn",
+    "recipients": [
+      "mahantpriyansh200@gmail.com",
+      "gajendramandal2003@gmail.com",
+      "mm1miq.d@gmail.com"
+    ],
+    "retry_count": 3
+  },
+  "desktop_notifications": {
+    "enabled": true,
+    "timeout": 10,
+    "show_image": false
+  },
+  "sound_alerts": {
+    "enabled": true,
+    "sound_file": "alert.wav",
+    "volume": 1.0,
+    "repeat": false
+  },
+  "logging": {
+    "enabled": true,
+    "log_file": "alerts.log",
+    "log_level": "INFO",
+    "max_file_size_mb": 10,
+    "backup_count": 5
+  },
+  "database": {
+    "enabled": true,
+    "db_file": "alerts_db.json",
+    "max_entries": 1000,
+    "auto_cleanup": true
+  }
+}
